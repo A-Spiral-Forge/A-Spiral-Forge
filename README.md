@@ -15,27 +15,41 @@ Here are some ideas to get you started:
 
 ![SpiralForge](./assets/images/github-readme-cover.gif)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=379172)](https://www.linkedin.com/in/spiralforge)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2ea44f)](https://www.linkedin.com/in/spiralforge)
 &nbsp;
-[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=379172)](https://twitter.com/SpiralForge)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white&color=2ea44f)](https://twitter.com/SpiralForge)
 &nbsp;
-[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=379172)](https://www.facebook.com/spiralforge.a.s)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=2ea44f)](https://www.facebook.com/spiralforge.a.s)
 &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=379172)](https://www.instagram.com/spiralforge_)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=2ea44f)](https://www.instagram.com/spiralforge_)
 &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:imp.abhayparihar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=2ea44f)](mailto:imp.abhayparihar@gmail.com)
 
 ### Hello World! 👋
 
 This is Abhay Parihar, welcoming you to my Github profile.
-I am a web developer and currently pursuing Bachelor of Technology in major Information Technology from Indian Institute of Information Technology, Allhabaad. I am currently learning wordpress developement. I know server-side rendering, API developement using Nodejs and Advenced Javascript.
+I am a web developer and currently pursuing Bachelor of Technology in major Information Technology from Indian Institute of Information Technology, Allhabaad.
 
-## My Open Source Stats
+<!-- ![](https://komarev.com/ghpvc/?username=A-Spiral-Forge&label=Developers+Visited+My+Profile&color=2ea44f&style=for-the-badge) -->
 
-[![](https://github-readme-stats.vercel.app/api?username=A-Spiral-Forge&show_icons=true&theme=algolia&hide_border=true)](https://github.com/A-Spiral-Forge)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Spiral-Forge&theme=algolia&hide_border=true)](https://github.com/A-Spiral-Forge)
+## My Open Source Stats 📈
 
-## Technical Skills
+![](https://github-readme-stats.vercel.app/api?username=A-Spiral-Forge&show_icons=true&theme=algolia&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=A-Spiral-Forge&theme=algolia&hide_border=true)
+
+## Language Diversity 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Spiral-Forge&layout=compact&theme=algolia&hide_border=true)
+
+## The Journey to Top 🚀
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=A-Spiral-Forge&repo=SpiralForge&theme=algolia&hide_border=true)](https://spiralforge.onrender.com/)
+
+## Open Source Trophies 🏆
+    
+![Trophy](https://github-profile-trophy.vercel.app/?username=A-Spiral-Forge&theme=algolia&no-bg=true&no-frame=true&column=7)
+
+## Technical Skills 🛠️
 
 [![Code - Python](https://img.shields.io/badge/Code-Python-2ea44f?logo=python)](https://www.python.org)
 &nbsp;
@@ -53,8 +67,10 @@ I am a web developer and currently pursuing Bachelor of Technology in major Info
 &nbsp;
 [![Code - MySQL](https://img.shields.io/badge/Code-MySQL-2ea44f?logo=mysql)](https://www.mysql.com)
 
-### Tools I Have Been Using
+## Tools I Have Been Using 🛠️
 
+[![Tools - VS Code](https://img.shields.io/badge/Tools-VS%20Code-2ea44f?logo=visual-studio-code)](https://code.visualstudio.com)
+&nbsp;
 [![Tools - Github](https://img.shields.io/badge/Tools-Github-2ea44f?logo=Github)](https://github.com)
 &nbsp;
 [![Tools - Git](https://img.shields.io/badge/Tools-Git-2ea44f?logo=Git)](https://git-scm.com)
@@ -73,9 +89,8 @@ I am a web developer and currently pursuing Bachelor of Technology in major Info
 &nbsp;
 [![Tools - Firefox](https://img.shields.io/badge/Tools-Firefox-2ea44f?logo=Firefox&logoColor=yellow)](https://github.com/)
 &nbsp;
-[![Tools - VSCode](https://img.shields.io/badge/Tools-VSCode-2ea44f?logo=visualstudiocode&logoColor=blue)](https://github.com/)
 
-### My Favourite Qoutes
+## My Favourite Qoutes 📜
 
 > Unfinished projects are a symbol of progress, not of imperfection.
 
